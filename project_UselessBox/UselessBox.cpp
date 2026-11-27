@@ -41,4 +41,3 @@ int main (){
   chill.jouer();
   return 0;
 }
-
